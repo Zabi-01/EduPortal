@@ -43,7 +43,7 @@
 ### 📋 Instructor Grade Management
 > Instructors can review and manage grade books for their courses.
 
-![Instructor Grade Management](docs/images/instructor_grades.png)
+![Instructor Grade Management](docs/images/instructor_gradebook.png)
 
 ---
 
