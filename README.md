@@ -29,7 +29,7 @@
 ### 📊 Student Grade Book
 > Students can track all their grades across courses with letter grades, scores, and dates.
 
-![Student Grade Book](docs/images/student_grades.png)
+![Student Grade Book](docs/images/student_grades2.png)
 
 ---
 
