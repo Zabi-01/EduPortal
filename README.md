@@ -432,13 +432,7 @@ MongoDB stores:
 - 📄 `quizquestions` — flexible quiz question bank
 - 📄 `coursecontents` — rich course content/materials
 
----
 
-## 👤 Author
-
-**Zabi-01** · [GitHub](https://github.com/Zabi-01)
-
----
 
 <div align="center">
 
